@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3492220a-9df8-46be-bed5-4fa98e2cd6e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hand.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="30YFnopNm4vykmFPw3PCWp48gr1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="iasoft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AscendIAV1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iasoft.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iatest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AscendIAV1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iatest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AscendIAV1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AscendIAV1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.testing" />
+        <item itemvalue="Python.iasoft" />
+        <item itemvalue="Python.iatest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3492220a-9df8-46be-bed5-4fa98e2cd6e1" name="Default Changelist" comment="" />
+      <created>1753796768736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753796768736</updated>
+    </task>
+    <task id="LOCAL-00001" summary="delete print">
+      <created>1753884803889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753884803889</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete print">
+      <created>1753886027822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753886027822</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add position">
+      <created>1753886080710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753886080710</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Counter&#10;Correct Errors">
+      <created>1753941708832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753941708832</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Moy and Std for rivers">
+      <created>1754148561989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754148561989</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Lines done">
+      <created>1754150788512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754150788512</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change Config Folder">
+      <created>1754507058960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754507058960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Modif func">
+      <created>1754512674531</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754512674531</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Folder Dataset">
+      <created>1754649591464</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754649591464</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add testing dataset">
+      <created>1754651334883</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754651334883</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete print" />
+    <MESSAGE value="add position" />
+    <MESSAGE value="Add Counter&#10;Correct Errors" />
+    <MESSAGE value="Add Moy and Std for rivers" />
+    <MESSAGE value="Add Lines done" />
+    <MESSAGE value="Change Config Folder" />
+    <MESSAGE value="Modif func" />
+    <MESSAGE value="Folder Dataset" />
+    <MESSAGE value="Add testing dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add testing dataset" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="978" y="123" key="CommitChangelistDialog2" timestamp="1754651334331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="978" y="123" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1754651334331" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1754659632911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1754659632911" />
+    <state width="1899" height="409" key="GridCell.Tab.0.bottom" timestamp="1754926242833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1754926242833" />
+    <state width="1899" height="409" key="GridCell.Tab.0.center" timestamp="1754926242832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="409" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1754926242832" />
+    <state width="1899" height="409" key="GridCell.Tab.0.left" timestamp="1754926242832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="409" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1754926242832" />
+    <state width="1899" height="409" key="GridCell.Tab.0.right" timestamp="1754926242833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="409" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1754926242833" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1754651336927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1754651336927" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1754915552846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1754915552846" />
+  </component>
+</project>
