@@ -7,6 +7,11 @@ def print_lines(lines):
     for line in lines:
         print(line)
 
+def read_file(file):
+    with open(file, "r", encoding="utf-8") as f:
+        s = f.read()
+        return s
+
 def get_intersection_matrix(hands):
     n = len(hands)
     matrix = np.ones((n, n), dtype=np.bool_)

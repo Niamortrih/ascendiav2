@@ -82,7 +82,7 @@ class Tree(object):
             self.addev = lastbet - lastbethero
             bet = 0
         elif bets[-1][0] == "b":
-            self.addev = bet - lastbethero
+            self.addev = lastbet - lastbethero
         effstack = self.spot.startstack - lastbet
         self.pot = self.spot.startpot + 2 * lastbet
         spr = effstack / self.pot
