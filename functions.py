@@ -75,6 +75,7 @@ def get_calc_eq(connection, pos):
 
 def get_children(connection, node):
     r = connection.command(line="show_children " + node)
+    # print_lines(r)
     children = []
     for i in range(len(r)):
         if i % 7 == 1:

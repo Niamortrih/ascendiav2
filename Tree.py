@@ -17,7 +17,7 @@ class Tree(object):
         self.node = node
         self.step = step
         self.end = 0
-        if self.step != 0:
+        if node[-1] == "c" and node != "r:0:c":
             self.end = 1
         if pos == 0:
             self.poshero = "OOP"

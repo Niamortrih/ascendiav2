@@ -34,8 +34,8 @@ class Spot(object):
 
     def make_recur(self,node, pos, n):
         tree = Tree(self.parser, self, node, pos, n)
+        children = get_children(self.connection, node)
         tree.make()
-        children = get_children(self.connection,node)
         if len(children) < 30:
             for child in children:
                 if child[-1] != "f":

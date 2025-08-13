@@ -94,6 +94,14 @@ def make_result(connection, node, taboop, tabip, eqs, list_hands, scaler, model)
 
         lines.append(inputs+datahand)
 
+        if node == "r:0:c" and 0 == 1:
+            print("------" + node + list_hands[num] + "------")
+            print("SPR : ", lines[-1][0:5])
+            print("Range VS Range : ", lines[-1][5:30])
+            print("Range Drawyness : ", lines[-1][30:34])
+            print("Hand VS Range : ", lines[-1][34:58])
+            print("River Stats : ", lines[-1][58:])
+
     X = np.array(lines, dtype=float)
     X_scaled = scaler.transform(X)
     y_pred = model.predict(X_scaled)  # shape: (n_samples,)
