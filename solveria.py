@@ -42,7 +42,7 @@ strip = get_range(connection, "IP", "r:0")
 tabip = str_to_tab(strip)
 
 
-eqs = get_eqs(connection,taboop)
+eqs = get_eqs(connection,taboop,board)
 print("EQUITIES LOADED, SOLVING START")
 
 
@@ -73,8 +73,8 @@ for i in range(100):
     for j in range(1326):
         if taboop[j] > 0.01:
             res = evs[:, j]
-            res[0] -= 4.5
-            res[1] -= 0.5
+            # res[0] -= 4.5
+            # res[1] -= 0.5
             imax = np.argmax(res)
             # print("OLD", list_hands[j], tabstrat[j])
             boost_index(tabstrat[j],imax,0.1)

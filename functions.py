@@ -1,6 +1,7 @@
 import math
 import numpy as np
 import random
+from pathlib import Path
 
 
 def print_lines(lines):
@@ -42,7 +43,13 @@ def str_to_tab(s):
 def str_to_tab_nan(s):
     return np.fromstring(s, sep=' ', dtype=np.float32)
 
-def get_eqs(connection, taboop):
+def get_eqs(connection, taboop, board):
+    filename = "Eqs/" + board + ".npy"
+    chemin = Path(filename)
+    if chemin.is_file():  # existe ET c'est bien un fichier
+        eqs = np.load(filename)
+        return eqs
+
     oop = bytearray(b'0 ' * 1325 + b'0')
     last = 0
     bigtab = np.zeros((1326, 1326), dtype=np.float32)
@@ -59,6 +66,7 @@ def get_eqs(connection, taboop):
             last = i
             set_range(connection, "OOP", oop.decode())
             bigtab[i] = 1 - get_calc_eq(connection, "IP")
+    np.save(filename, bigtab)
     return bigtab
 
 def get_calc_eq(connection, pos):

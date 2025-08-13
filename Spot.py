@@ -22,7 +22,7 @@ class Spot(object):
         r = self.connection.command(line="set_board " + board)
         self.stroop = get_range(self.connection, "OOP", "r:0")
         self.taboop = str_to_tab(self.stroop)
-        self.eqs = get_eqs(self.connection,self.taboop)
+        self.eqs = get_eqs(self.connection,self.taboop, board)
 
         r = self.connection.command(line="show_effective_stack")
         self.startstack = float(r[0])
