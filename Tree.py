@@ -49,8 +49,8 @@ class Tree(object):
         self.make_range_vs_range(5)
 
         self.sepvln = split_range(self.tabvln, self.pondervln, 12)
-        self.rivers = get_rivers(self.connection, 500, self.poshero)
-        self.riversvln = get_rivers(self.connection, 500, self.posvln)
+        self.rivers = get_rivers(self.connection, 3000, self.poshero)
+        self.riversvln = get_rivers(self.connection, 3000, self.posvln)
         self.make_rivers()
         self.make_targets()
 

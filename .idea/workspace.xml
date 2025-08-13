@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3492220a-9df8-46be-bed5-4fa98e2cd6e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcsolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcsolver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1755094584848</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Modif end param">
+      <created>1755102499809</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755102499809</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,13 +277,14 @@
     <MESSAGE value="Add testing dataset" />
     <MESSAGE value="Modif addev" />
     <MESSAGE value="Save eqs folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save eqs folder" />
+    <MESSAGE value="Modif end param" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modif end param" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="978" y="123" key="CommitChangelistDialog2" timestamp="1755094584036">
+    <state x="978" y="123" key="CommitChangelistDialog2" timestamp="1755102499301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="978" y="123" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1755094584036" />
+    <state x="978" y="123" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1755102499301" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1754659632911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -300,10 +305,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="322" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1755102393548" />
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1755094592407">
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1755102502331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1755094592407" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1755102502331" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1754946263386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
